@@ -17,10 +17,6 @@ O foco principal foi a fidelidade visual e a criação de um layout moderno, atr
 
 ## 🖼️ Resultado Visual
 
-<p align="center">
-  <img src="URL_PARA_SUA_IMAGEM_AQUI" alt="Captura de tela da tela de login da Beauty Store" width="600"/>
-</p>
-
 <img width="1832" height="846" alt="image" src="https://github.com/user-attachments/assets/10ea10ec-49da-4d59-9592-5b7cdbd441bb" />
 
 ## 💡 Lições Aprendidas / Conceitos Aplicados
