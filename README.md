@@ -56,7 +56,7 @@ Este projeto foi criado com fins de estudo. Sugestões e *feedbacks* são bem-vi
 
 | | |
 | :--- | :--- |
-| **GitHub** | [@ViniciusModenese]((https://github.com/ViniciusModenese)) |
+| **GitHub** | [@ViniciusModenese](https://github.com/ViniciusModenese) |
 | **LinkedIn** | [Vinicius Modenese Santos](www.linkedin.com/in/viniciusmodenese) |
 
 ---
