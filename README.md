@@ -42,7 +42,7 @@ Siga estes passos simples para visualizar e testar o projeto em sua máquina loc
     cd projeto_tela_login
     ```
 3.  **Abra o Arquivo:**
-    * Simplesmente abra o arquivo `index.html` em seu navegador favorito.
+    * Simplesmente abra o arquivo `login.html` em seu navegador favorito.
 
 ## 🤝 Contribuições
 
